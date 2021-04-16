@@ -1,2 +1,2 @@
 # animateit website
-https://matiasdandrea.github.io/animateit/
+https://matiasplayground.github.io/animateit/
